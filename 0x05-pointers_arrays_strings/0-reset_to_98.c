@@ -3,7 +3,7 @@
 /**
  * reset_to_98 - function
  *
- * @*n: parameters 
+ * @n: parameters
  */
 
 void reset_to_98(int *n)
