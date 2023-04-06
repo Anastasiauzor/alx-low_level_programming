@@ -3,7 +3,7 @@
 /**
  * _print_rev_recursion - Function
  *
- * s: parameters
+ * @s: parameters
  */
 
 void _print_rev_recursion(char *s)
